@@ -1,0 +1,61 @@
+## .NET MAUI and Visual Studio
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mac specific files
+.DS_Store
+
+# Build results
+*.dll
+*.exe
+*.app
+*.apk
+*.aab
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# User-specific files
+*.pdb
+*.userprefs
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Configuration
+appsettings.*.json
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Xamarin/Mobile specific
+*.apk
+*.aab
+*.apks
+*.xcuserstate
+*.xcworkspace
+*.xcuserdata
+*.xcodeproj
+*.pbxproj
+
+# MAUI Specific
+Platforms/Android/obj/
+Platforms/Android/bin/
+Platforms/iOS/obj/
+Platforms/iOS/bin/
